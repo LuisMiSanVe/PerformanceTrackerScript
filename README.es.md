@@ -12,7 +12,7 @@ Algunas opciones necesitan tener instalados los [controladores de NVIDIA](https:
 ## 📖 Sobre el proyecto
 Las opciones del script se pueden categorizar en dos:
 - **Monitor de Rendimiento**: Varias opciones dan información del rendimiento, uso y temperatura de los componentes.
-- **Mejora de Rendimiento**: Si tu PC tiene poca RAM, el sistema operativo puede guardar procesos en tu disco (una memoria mucho más lenta que la RAM) causando que el sistema funcione más lento. Esta opción realoja esos procesos para mejorar la eficiencia del ordenador. Solo funcionará si tienes una partición SNAP en tu disco (la cual crea automáticamente [Ubuntu](https://ubuntu.com/) durante la instalación a menos que lo deshabilites manualmente).
+- **Mejora de Rendimiento**: Si tu PC tiene poca RAM, el sistema operativo puede guardar procesos en tu disco (una memoria mucho más lenta que la RAM) causando que el sistema funcione más lento. Esta opción realoja esos procesos para mejorar la eficiencia del ordenador. Solo funcionará si tienes una partición SWAP en tu disco (la cual crea automáticamente [Ubuntu](https://ubuntu.com/) durante la instalación a menos que lo deshabilites manualmente).
 
 > [!IMPORTANT]
 > Este Script fue probado en un equipo con un procesador **Intel** y una [tarjeta gráfica NVIDIA](https://www.nvidia.com/) con [Ubuntu](https://ubuntu.com/) Linux, otras marcas puede que sean incompatibles.
